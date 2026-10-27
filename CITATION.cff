@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or research findings in your work, please cite it as below."
+authors:
+  - family-names: "Jaafari"
+    given-names: "Mostafa"
+title: "Forensic Analysis and Anti-Money Laundering (AML) in Bitcoin: Uncovering Illicit Transactions via Complex Network Dynamics and Graph Neural Networks"
+version: 1.0.0
+date-released: 2024-01-01
+url: "https://github.com/mostafa-ja/Illicit-Bitcoin-Transactions"
+keywords:
+  - bitcoin
+  - blockchain
+  - graph-neural-networks
+  - anti-money-laundering
+  - elliptic-dataset
+  - pytorch-geometric
+  - complex-networks

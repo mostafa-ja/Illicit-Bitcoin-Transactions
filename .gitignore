@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & Environment
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.env
+
+# Sensitive Credentials
+kaggle.json
+
+# Large Dataset Files & Archives
+elliptic_bitcoin_dataset/
+*.csv
+*.zip
+*.tar.gz
+*.pt
+*.pth
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Scratch directory
+scratch/
